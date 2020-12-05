@@ -58,31 +58,39 @@ ul {
     overflow-x: hidden;
 }
 
-.backlog-column .header,
+.backlog-column .header
+/* ,
 .backlog-column .solid,
 .backlog-column .solid:hover,
-.backlog-column .over {
+.backlog-column .over  */
+{
     background-color: var(--column-1);
 }
 
-.progress-column .header,
+.progress-column .header
+/* ,
 .progress-column .solid,
 .progress-column .solid:hover,
-.progress-column .over {
+.progress-column .over  */
+{
     background-color: var(--column-2);
 }
 
-.complete-column .header,
+.complete-column .header
+/* ,
 .complete-column .solid,
 .complete-column .solid:hover,
-.complete-column .over {
+.complete-column .over  */
+{
     background-color: var(--column-3);
 }
 
-.on-hold-column .header,
+.on-hold-column .header
+/* ,
 .on-hold-column .solid,
 .on-hold-column .solid:hover,
-.on-hold-column .over {
+.on-hold-column .over  */
+{
     background-color: var(--column-4);
 }
 
