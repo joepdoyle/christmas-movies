@@ -55,7 +55,7 @@ ul {
     position: relative;
     background-color: rgba(0, 0, 0, 0.4);
     border-radius: 10px;
-    overflow-x: hidden;
+    overflow-y: hidden;
 }
 
 .backlog-column .header
