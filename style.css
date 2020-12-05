@@ -21,6 +21,8 @@ body {
     background-attachment: fixed;
     color: #fff;
     font-family: Quicksand, sans-serif;
+    overflow-y: hidden;
+    overflow-x: hidden;
 }
 
 h1 {
@@ -55,7 +57,7 @@ ul {
     position: relative;
     background-color: rgba(0, 0, 0, 0.4);
     border-radius: 10px;
-    overflow-y: hidden;
+    overflow-x: hidden;
 }
 
 .backlog-column .header
